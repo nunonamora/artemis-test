@@ -1,1 +1,1 @@
-const program = 'ok'
+const program = 'oke'
